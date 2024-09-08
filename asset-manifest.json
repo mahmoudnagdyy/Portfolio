@@ -1,25 +1,20 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.69a443b7.css",
-    "main.js": "/Portfolio/static/js/main.bc0551f5.js",
+    "main.js": "/Portfolio/static/js/main.cbf22a6e.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/personal_img.png": "/Portfolio/static/media/personal_img.4cc90d6f81a5510f6213.png",
-    "static/media/converter.png": "/Portfolio/static/media/converter.a31388f320c52829fa1a.png",
     "static/media/space.png": "/Portfolio/static/media/space.bd47b05d515b3fa0ca71.png",
     "static/media/Gym.png": "/Portfolio/static/media/Gym.7a21c0f78dcfefbf71d3.png",
     "static/media/Burger.png": "/Portfolio/static/media/Burger.a8b5c3a7b21c4bdb6981.png",
     "static/media/tasty.png": "/Portfolio/static/media/tasty.33c22acd03aed0284426.png",
     "static/media/fruit.png": "/Portfolio/static/media/fruit.3d78e903372270e4f32e.png",
     "static/media/elecar.png": "/Portfolio/static/media/elecar.11a90697ff8ef2b4f0ee.png",
-    "static/media/smart_home.png": "/Portfolio/static/media/smart_home.a87d97b838351345b0e9.png",
-    "static/media/fire_system.png": "/Portfolio/static/media/fire_system.d060b0ff198b20fad5c6.png",
-    "static/media/calculator.png": "/Portfolio/static/media/calculator.f80468cc5cb9a81dec29.png",
-    "static/media/lcd_game.png": "/Portfolio/static/media/lcd_game.d03cb16c6a674cc2c087.png",
     "static/media/illustration-light.svg": "/Portfolio/static/media/illustration-light.9619606fa569e037f99b45bcbafe604a.svg",
     "static/media/illustration-dark.svg": "/Portfolio/static/media/illustration-dark.25d2b32e703004460ac40413687f93a7.svg",
-    "static/media/Automatic barrier and security syste.jpg": "/Portfolio/static/media/Automatic barrier and security syste.602e94d75a60b3349773.jpg",
     "static/media/stopwatch.png": "/Portfolio/static/media/stopwatch.5348a5da933cca8e7a91.png",
     "static/media/XO.png": "/Portfolio/static/media/XO.0a137c0fcca2e93e3914.png",
+    "static/media/todo.png": "/Portfolio/static/media/todo.516588eaed7b0d661d7f.png",
     "static/media/software-developer.png": "/Portfolio/static/media/software-developer.642f65bf68c25d23d9c9.png",
     "static/media/Calculator_Js.png": "/Portfolio/static/media/Calculator_Js.2678e8063cb111fd4ec8.png",
     "static/media/artificial-intelligence.png": "/Portfolio/static/media/artificial-intelligence.2b6ce0bacaea463d1cfc.png",
@@ -27,11 +22,11 @@
     "static/media/dots-dark.svg": "/Portfolio/static/media/dots-dark.4e37d73b714b74b995200fafee14dfec.svg",
     "static/media/dots-light.svg": "/Portfolio/static/media/dots-light.44689f83df298fad874ad5f99a2e499e.svg",
     "main.69a443b7.css.map": "/Portfolio/static/css/main.69a443b7.css.map",
-    "main.bc0551f5.js.map": "/Portfolio/static/js/main.bc0551f5.js.map",
+    "main.cbf22a6e.js.map": "/Portfolio/static/js/main.cbf22a6e.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69a443b7.css",
-    "static/js/main.bc0551f5.js"
+    "static/js/main.cbf22a6e.js"
   ]
 }
