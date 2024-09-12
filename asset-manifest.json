@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.69a443b7.css",
-    "main.js": "/Portfolio/static/js/main.cbf22a6e.js",
+    "main.js": "/Portfolio/static/js/main.483f54a9.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/personal_img.png": "/Portfolio/static/media/personal_img.4cc90d6f81a5510f6213.png",
     "static/media/space.png": "/Portfolio/static/media/space.bd47b05d515b3fa0ca71.png",
@@ -18,15 +18,16 @@
     "static/media/software-developer.png": "/Portfolio/static/media/software-developer.642f65bf68c25d23d9c9.png",
     "static/media/Calculator_Js.png": "/Portfolio/static/media/Calculator_Js.2678e8063cb111fd4ec8.png",
     "static/media/artificial-intelligence.png": "/Portfolio/static/media/artificial-intelligence.2b6ce0bacaea463d1cfc.png",
+    "static/media/TODO_Hooks.png": "/Portfolio/static/media/TODO_Hooks.fd2e7b32156729bc1a01.png",
     "index.html": "/Portfolio/index.html",
     "static/media/dots-dark.svg": "/Portfolio/static/media/dots-dark.4e37d73b714b74b995200fafee14dfec.svg",
     "static/media/dots-light.svg": "/Portfolio/static/media/dots-light.44689f83df298fad874ad5f99a2e499e.svg",
     "main.69a443b7.css.map": "/Portfolio/static/css/main.69a443b7.css.map",
-    "main.cbf22a6e.js.map": "/Portfolio/static/js/main.cbf22a6e.js.map",
+    "main.483f54a9.js.map": "/Portfolio/static/js/main.483f54a9.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69a443b7.css",
-    "static/js/main.cbf22a6e.js"
+    "static/js/main.483f54a9.js"
   ]
 }
