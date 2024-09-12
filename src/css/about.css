@@ -1,0 +1,36 @@
+.about_container {
+    padding: 120px 0;
+}
+
+
+
+.buttons_container_light {
+    border: 2px solid #cdd1d3;
+    color: black;
+}
+
+.buttons_container_dark {
+    background-color: #202133;
+    color: #7a7b8d;
+}
+
+.active_button {
+    background-color: #ff6d58;
+    color: white;
+}
+
+.about_light {
+    background-color: #fefefe;
+}
+
+@media (max-width: 400px) {
+    .buttons_container {
+        padding: 5px;
+        width: 140px;
+        border-radius: 26px;
+        -webkit-border-radius: 26px;
+        -moz-border-radius: 26px;
+        -ms-border-radius: 26px;
+        -o-border-radius: 26px;
+    }
+}

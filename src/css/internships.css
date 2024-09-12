@@ -1,0 +1,24 @@
+@media (max-width: 400px) {
+    .internships_container {
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+
+
+
+@media (min-width: 400px) and (max-width: 600px) {
+    .internships_container {
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+    .internships_container {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}

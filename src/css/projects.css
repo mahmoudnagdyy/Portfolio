@@ -1,0 +1,142 @@
+.projects_container {
+    padding: 120px 0;
+}
+
+
+.projects_light {
+    background-color: #fefefe;
+}
+
+
+.mySwiper {
+    width: 850px;
+    height: 350px;
+}
+
+
+.swiper-pagination-bullet-active {
+    background-color: #fe705a !important;
+}
+
+.small_swiper {
+    max-width: 400px !important;
+}
+
+.allProjects_link{
+    border: 2px solid #fe705a;
+    transition-duration: 0.5s !important;
+}
+
+.allProjects_link:hover{
+    background-color: transparent;
+    color: #fe705a;
+}
+
+
+.color {
+    background-color: #fe705a;
+}
+
+.link_small {
+    border: 2px solid #fe705a;
+    transition-duration: 0.5s !important;
+}
+
+.link_small:hover {
+    background-color: transparent;
+    color: #fe705a;
+}
+
+
+@media (max-width:400px) {
+    .projects_container {
+        flex-direction: column;
+    }
+
+    .small_screen {
+        display: none !important;
+    }
+
+    .small_swiper {
+        width: 300px;
+        margin-top: 40px;
+    }
+
+    .link_big {
+        display: none;
+    }
+
+}
+
+
+@media (min-width:400px) and (max-width:600px) {
+    .projects_container {
+        flex-direction: column;
+    }
+
+    .small_screen {
+        display: none !important;
+    }
+
+    .small_swiper {
+        width: 350px;
+        margin-top: 40px;
+    }
+
+    .link_big {
+        display: none;
+    }
+
+}
+
+
+@media (min-width:600px) and (max-width:800px) {
+    .projects_container {
+        flex-direction: column;
+    }
+
+    .small_screen {
+        display: none !important;
+    }
+
+    .small_swiper {
+        width: 400px;
+        margin-top: 40px;
+    }
+
+    .link_big {
+        display: none;
+    }
+
+}
+
+@media (min-width:800px) and (max-width:1200px) {
+    .projects_container {
+        flex-direction: column;
+    }
+
+    .small_screen {
+        display: none !important;
+    }
+
+    .small_swiper {
+        width: 400px;
+        margin-top: 40px;
+    }
+
+    .link_big {
+        display: none;
+    }
+
+}
+
+
+@media (min-width:1200px) {
+    .small_swiper {
+        display: none !important;
+    }
+
+    .link_small {
+        display: none;
+    }
+}

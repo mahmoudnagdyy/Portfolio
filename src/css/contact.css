@@ -1,0 +1,68 @@
+.contact_p {
+    color: #828d91;
+}
+
+.contactImg {
+    max-width: 400px;
+}
+
+
+form input,
+textarea {
+    width: 600px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    resize: none;
+    border: 2px solid #cdd1d3;
+    transition-duration: 0.5s;
+}
+
+
+form input:focus,
+textarea:focus {
+    border: 2px solid #f97316;
+}
+
+
+
+@media (max-width: 400px) {
+
+    .contactImg {
+        max-width: 250px;
+        margin-top: 50px;
+    }
+
+    form input,
+    textarea {
+        width: 250px;
+    }
+}
+
+
+@media (min-width: 400px) and (max-width: 600px) {
+
+    .contactImg {
+        max-width: 300px;
+        margin-top: 50px;
+    }
+
+    form input,
+    textarea {
+        width: 300px;
+    }
+}
+
+
+@media (min-width: 600px) and (max-width: 800px) {
+
+    .contactImg {
+        max-width: 300px;
+        margin-top: 50px;
+    }
+
+    form input,
+    textarea {
+        width: 400px;
+    }
+}

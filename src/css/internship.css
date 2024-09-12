@@ -1,0 +1,56 @@
+.pole {
+    position: relative;
+    background-color: #daddde;
+    width: 2px;
+    height: 100px;
+}
+
+.ball {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    background-color: #fe705a;
+    top: 0;
+    left: -5.5px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+
+    transition-duration: 1s;
+}
+
+
+.intern_container:hover .ball {
+    top: 100%;
+}
+
+
+
+@media (max-width: 400px) {
+    .intern_container {
+        margin: auto;
+        margin-top: 40px;
+        width: 170px;
+    }
+}
+
+
+
+@media (min-width: 400px) and (max-width: 600px) {
+    .intern_container {
+        margin: auto;
+        margin-top: 40px;
+        width: 170px;
+    }
+}
+
+
+@media (min-width: 600px) and (max-width: 800px) {
+    .intern_container {
+        margin: auto;
+        margin-top: 40px;
+        width: 170px;
+    }
+}

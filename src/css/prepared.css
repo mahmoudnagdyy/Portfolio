@@ -1,0 +1,18 @@
+.prepared_container {
+    padding: 120px 0;
+}
+
+.prepared_dark {
+    background-color: #232334;
+}
+
+
+.contact_link {
+    border: 2px solid #fe705a;
+    transition-duration: 0.5s !important;
+}
+
+.contact_link:hover {
+    background-color: transparent;
+    color: #fe705a;
+}

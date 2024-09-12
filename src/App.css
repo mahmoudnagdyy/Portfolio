@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+}
+
+.light_mode {
+  background-color: #fefaf6;
+  color: black;
+}
+
+
+.dark_mode {
+  background-color: #28293d;
+  color: white;
+}
+
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #e8e7e6;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #fe705a;
+  border-radius: 20px;
+}

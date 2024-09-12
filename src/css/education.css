@@ -1,0 +1,40 @@
+.pole {
+    position: relative;
+    background-color: #daddde;
+    width: 2px;
+    height: 100px;
+}
+
+.ball {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    background-color: #fe705a;
+    top: 0;
+    left: -5.5px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+
+    transition-duration: 1s;
+}
+
+
+.edu_container:hover .ball {
+    top: 100%;
+}
+
+
+.bachelor {
+    color: #9ba4a7;
+}
+
+.depart {
+    color: #9ba4a7;
+}
+
+
+
+@media (max-width: 400px)
